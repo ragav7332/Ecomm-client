@@ -5,4 +5,6 @@ API from backend url conatins
 - search
 - shop items
 
+Backend Deployed Url placed on env file,By using end points of filtered item to fetching the data.
+
 here Front-end Deployed Url : https://ecommerce-publishable.netlify.app/
